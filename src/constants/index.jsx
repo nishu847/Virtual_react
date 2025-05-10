@@ -16,7 +16,7 @@ export const navItems = [
   { label: "Features", href: "#1" },
   { label: "Workflow", href: "#2" },
   { label: "Pricing", href: "#3" },
-  { label: "Testimonials", href: "#4" },
+  { label: "Feedbacks", href: "#4" },
 ];
 
 export const testimonials = [
